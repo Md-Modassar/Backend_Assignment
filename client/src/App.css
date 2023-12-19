@@ -1,0 +1,41 @@
+.home-2{
+  margin: 50px 200px;
+  padding: 100px 10px;
+  height: 500px;
+  width: 600px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+  background: linear-gradient(100deg, #9ad5f2,#f9f8f622 50%);
+
+
+}
+label{
+  margin: 10px;
+}
+input{
+  height: 100px;
+}
+.textarea{
+   height: 200px;
+   width: 400px;
+   font-size: 20px;
+}
+button{
+  cursor: pointer;
+  height: 80px;
+  width: 400px;
+}
+.home-1{
+  margin: 200px 200px;
+  height: 450px;
+  width: 600px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  background: linear-gradient(100deg, #9ad5f2,#f9f8f622 50%);
+}
+.home-1 input{
+  font-size: 20px;
+}
